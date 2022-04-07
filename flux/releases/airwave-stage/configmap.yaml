@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: hello-world-configmap
-data:
-  AIRWAVE_HW_PORT: '4998'
